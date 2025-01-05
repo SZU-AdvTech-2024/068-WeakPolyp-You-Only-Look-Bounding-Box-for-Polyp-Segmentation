@@ -1,0 +1,8 @@
+@inproceedings{REPO068,
+    author = "Wei, Jun and Hu, Yiwen and Cui, Shuguang and Zhou, S Kevin and Li, Zhen",
+    booktitle = "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    organization = "Springer",
+    pages = "757--766",
+    title = "{WeakPolyp: You only Look Bounding Box for Polyp Segmentation}",
+    year = "2023"
+}
